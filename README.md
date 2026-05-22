@@ -107,10 +107,10 @@ plt.show()
 ```
 # Output Waveform
 # PSK
-<img width="991" height="660" alt="image" src="https://github.com/user-attachments/assets/1624d43e-b4ae-437c-93fe-9893df7ef8f2" />
+![WhatsApp Image 2025-10-06 at 14 09 22_c5e3e923](https://github.com/user-attachments/assets/c8745dcd-aef8-44ee-85ad-57e1b5db66ff)
 
 # QPSK
-<img width="992" height="662" alt="image" src="https://github.com/user-attachments/assets/bdd5cc76-9739-4d4f-a2cb-f18c6492f815" />
+![WhatsApp Image 2025-10-06 at 14 11 41_2c988368](https://github.com/user-attachments/assets/bb8f51d0-a234-4d41-b90a-1ff27ab26d29)
 
 # Results
 Thus the simple Python program for the modulation and demodulation of PSK and QPSK is done and verified.
