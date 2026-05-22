@@ -107,9 +107,11 @@ plt.show()
 ```
 # Output Waveform
 # PSK
+
 ![WhatsApp Image 2025-10-06 at 14 09 22_c5e3e923](https://github.com/user-attachments/assets/c8745dcd-aef8-44ee-85ad-57e1b5db66ff)
 
 # QPSK
+
 ![WhatsApp Image 2025-10-06 at 14 11 41_2c988368](https://github.com/user-attachments/assets/bb8f51d0-a234-4d41-b90a-1ff27ab26d29)
 
 # Results
